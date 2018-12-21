@@ -50,7 +50,7 @@ define([
         }
         Jupyter.toolbar.add_buttons_group([{
             label: 'acc-firstjupyter',
-            icon: 'fa-github',
+            icon: 'test-git',
             callback: doSomething
         }])
     }
